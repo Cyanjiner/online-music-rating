@@ -108,6 +108,14 @@ nav ul li a:hover{
     color: rgb(161, 159, 159);
 }
 
+#features{
+    background-color: black;
+}
+
+#contact{
+    background-color: black;
+}
+
 .img{
     display: inline;
     width: 60%;
