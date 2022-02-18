@@ -12,6 +12,7 @@ body{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 20px;
     line-height: 1.5;
+    background-color: black;
 }
 
 p {
@@ -108,13 +109,6 @@ nav ul li a:hover{
     color: rgb(161, 159, 159);
 }
 
-#features{
-    background-color: black;
-}
-
-#contact{
-    background-color: black;
-}
 
 .img{
     display: inline;
@@ -127,6 +121,7 @@ nav ul li a:hover{
     width: 60%;
     padding-bottom: 56.25%;
     height: 0;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 .iframe-container iframe{
     position: absolute;
