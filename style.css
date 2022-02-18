@@ -116,6 +116,11 @@ nav ul li a:hover{
     margin-top: 10px;
 }
 
+body #contact h2{
+    color:white;
+    padding-bottom: 40%;
+    text-align: center;
+}
 
 .iframe-container{
     position: relative;
