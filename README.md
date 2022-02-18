@@ -1,3 +1,3 @@
-# online-music-rating
+# Online Music Rating Platform by Jiner Zheng: Sound Paradise
 
-[Visit Soundparadise!](https://cyanjiner.github.io/online-music-rating/landing_page.html)
+Link to [Soundparadise!](https://cyanjiner.github.io/online-music-rating/landing_page.html)
