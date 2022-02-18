@@ -118,7 +118,7 @@ nav ul li a:hover{
 
 .iframe-container{
     position: relative;
-    width: 60%;
+    width: 100%;
     padding-bottom: 56.25%;
     height: 0;
     background-color: rgba(0, 0, 0, 0.6);
